@@ -37,7 +37,7 @@ dependencies:
     version: 2.7.12
     cf_stacks:
       - cflinuxfs2
-    uri: https://:@buildpacks.cloudfoundry.org/concourse-binaries/python/python-2.7.12-linux-x64.tgz
+    uri: https://buildpacks.cloudfoundry.org/concourse-binaries/python/python-2.7.12-linux-x64.tgz
     md5: 5b49c4c1ba9ceae55f5d4bd0b95863f4
   - name: python
     version: 3.3.5
